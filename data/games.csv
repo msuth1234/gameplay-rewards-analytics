@@ -1,0 +1,19 @@
+game_id,game_name,platform,primary_region,launch_date
+G001,Skyline Raiders,Console,US,2021-01-26
+G002,Pixel Kingdoms,Console,BR,2021-09-08
+G003,Neon Drift,Mobile,EU,2023-01-25
+G004,Fable Forge,Mobile,US,2022-08-28
+G005,Starbound Legion,PC,US,2021-01-31
+G006,Junkyard Racers,Mobile,EU,2021-08-27
+G007,Mystic Tides,Console,US,2022-07-29
+G008,Velocity Clash,Mobile,UK,2021-08-14
+G009,Ironclad Frontier,PC,BR,2023-04-09
+G010,Whispering Hollow,Mobile,EU,2022-12-16
+G011,Arcadia Nights,PC,BR,2021-10-12
+G012,Dustbowl Derby,Mobile,EU,2023-02-21
+G013,Emberfall,PC,US,2021-04-05
+G014,Circuit Breakers,PC,US,2022-01-03
+G015,Lantern Keep,PC,BR,2023-04-07
+G016,Rustbelt Renegades,Mobile,UK,2022-07-04
+G017,Glasswing,Mobile,UK,2021-03-22
+G018,Tideforge,Console,BR,2023-04-30
